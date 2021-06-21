@@ -6,7 +6,7 @@ public class MainAppl {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Player player = new Player(2, "Dragovic", "Defense");
+		Player player = new Player(2, "Dragovic", "Attack");
 		System.out.println("== " + player);
 		
 		Player player2 = new Player(4, "Hinteregger", "Defense");
@@ -18,6 +18,9 @@ public class MainAppl {
 		
 		Player player4 = new Player(9, "Manovic", "Attack");
 		System.out.println("== " + player4);
+		
+		Player player5 = new Player(10, "Manhard", "Attack");
+		System.out.println("== " + player5);
 		
 		
 		
