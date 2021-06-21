@@ -16,8 +16,6 @@ public class MainAppl {
 		System.out.println("== " + player3);
 		
 		
-		Player player4 = new Player(9, "Manovic", "Attack");
-		System.out.println("== " + player4);
 		
 		
 		
