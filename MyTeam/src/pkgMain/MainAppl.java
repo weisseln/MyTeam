@@ -12,7 +12,7 @@ public class MainAppl {
 		Player player2 = new Player(4, "Hinteregger", "Defense");
 		System.out.println("== " + player2);
 		
-		Player player3 = new Player(4, "Berger", "Hinterweltler");
+		Player player3 = new Player(4, "Bergeeer", "Hinterweltler");
 		System.out.println("== " + player3);
 		
 		
